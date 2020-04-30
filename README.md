@@ -1,5 +1,5 @@
 # Collection-AI_Ebook
 
-收集一些有价值的AI方向的书
+收集一些有价值的AI方向的书，最好是清晰的电子版。高清的扫描版也没问题。
 
-[](https://n.sinaimg.cn/translate/200/w1080h720/20200229/d900-iqfqmas6122684.jpg)
+![](img/d900-iqfqmas6122684.jpg)
